@@ -7,7 +7,7 @@ version is 3.2.1. You can see your current version by typing `R.Version()` from 
 You can get the latest version of R by googling "download latest version
 of R".
 
-1. Download the latest version of RStudio. Google "download RStudio".
+1. Download the latest version of RStudio. Google "download RStudio". The current version of RStudio is 0.99.467.
 
 1. Create an account on [ShinyApps.io](http://www.shinyapps.io/).
 
