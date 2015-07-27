@@ -9,6 +9,6 @@ of R".
 
 1. Download the latest version of RStudio. Google "download RStudio".
 
-1. Create an account on [ShinyApps.io](http://www.shinyapps.io/)
+1. Create an account on [ShinyApps.io](http://www.shinyapps.io/).
 
 1. Run the script `install.R` in this repo.
