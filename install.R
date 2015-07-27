@@ -23,5 +23,3 @@ library(choroplethr)
 library(choroplethrMaps)
 data(df_pop_state)
 print(state_choropleth(df_pop_state))
-
-# state_choropleth_acs("B01003", endyear=2012, span=5)
