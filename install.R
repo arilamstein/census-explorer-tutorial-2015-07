@@ -1,6 +1,6 @@
 update.packages()
     
-packages = c("devtools", "choroplethr", "choroplethrMaps", "shiny")
+packages = c("choroplethr", "choroplethrMaps", "shiny")
 if (length(setdiff(packages, rownames(installed.packages()))) > 0) 
 {
   install.packages(setdiff(packages, rownames(installed.packages())))  
