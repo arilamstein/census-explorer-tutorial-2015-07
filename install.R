@@ -21,5 +21,6 @@ if (r$major < "3" ||
 # now test
 library(choroplethr)
 library(choroplethrMaps)
+
 data(df_pop_state)
 print(state_choropleth(df_pop_state))
